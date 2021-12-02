@@ -1,19 +1,23 @@
 Readings: Introduction to React and Components
 
-
 Reading
 Component Based Architecture (Links to an external site.)
 
 ## What is a component?
+
 A piece of code that lives in the makeup of your webpage. Components can be functions and/or classes but functions are more popular.
+
 ## What are the characteristics of a component?
+
 Modular - can be used and moved around fluidly
 Reusability − usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
 Replaceable − Components may be freely substituted with other similar components.Not context specific − Components are designed to operate in different environments and contexts.
 Extensible − A component can be extended from existing components to provide new behavior.
 Encapsulated − A A component depicts the interfaces, which allow the caller to use it's functionality, and do not expose details of the internal processes or any internal variables or state.
- Independent − Components are designed to have minimal dependencies on other components.
+Independent − Components are designed to have minimal dependencies on other components.
+
 ## What are the advantages of using component based architecture?
+
 Ease of deployment − As new compatible versions become available, it is easier to replace existing versions with no impact on the other components or the system as a whole.
 Reduced cost − The use of third-party components allows you to spread the cost of development and maintenance.
 Ease of development − Components implement well-known interfaces to provide defined functionality, allowing development without impacting other parts of the system.
@@ -25,10 +29,15 @@ Independent − Independency and flexible connectivity of components. Independen
 What is Props and How to Use it in React (Links to an external site.)
 
 ## What is props short for?
+
 properties
+
 ## How are props used in React?
+
 Define an attribute and its value (data)
 Then pass it to child component(s) via Props
 Render props data
+
 ## What is the flow of props?
+
 Only one way, from parent to child.
