@@ -8,7 +8,6 @@ Component Based Architecture (Links to an external site.)
 A piece of code that lives in the makeup of your webpage. Components can be functions and/or classes but functions are more popular.
 
 ## What are the characteristics of a component?
-
 Modular - can be used and moved around fluidly
 Reusability − usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
 Replaceable − Components may be freely substituted with other similar components.Not context specific − Components are designed to operate in different environments and contexts.
